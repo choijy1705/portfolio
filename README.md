@@ -33,6 +33,6 @@
 ### 프로젝트
 
  - Google Playstore Appdata 분석 및 app Installs 수 예측
- - 해외축구데이터 분석을 통한 맨체스터 유나이티드 성적 하락 이유 분석 및 개선해야할 점([enter link (description here](https://github.com/choijy1705/ManU-Project))
- - Rossmann Store Data를 활용한 상점의 매출 예측 ([enter link description here](https://github.com/choijy1705/rossmann-store-analyze))
- - HomeCredit 사의 Data를 활용하여 대출 상환가능성에 영향 주는 변수 분석 ([enter link description here](https://github.com/choijy1705/HomeCredit-project))
+ - 해외축구데이터 분석을 통한 맨체스터 유나이티드 성적 하락 이유 분석 및 개선해야할 점([ManU project](https://github.com/choijy1705/ManU-Project))
+ - Rossmann Store Data를 활용한 상점의 매출 예측 (로스만 상점 분석](https://github.com/choijy1705/rossmann-store-analyze))
+ - HomeCredit 사의 Data를 활용하여 대출 상환가능성에 영향 주는 변수 분석 ([대출상환가능성 분석](https://github.com/choijy1705/HomeCredit-project))
